@@ -5,9 +5,8 @@
     {
       "name": "glados",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/jed2nd/GLaDOS.git",
-        "path": "plugins/claude-code"
+        "source": "git",
+        "url": "https://github.com/jed2nd/GLaDOS.git"
       },
       "description": "GLaDOS — agentic development framework with structured workflows, modules, and personas"
     }
