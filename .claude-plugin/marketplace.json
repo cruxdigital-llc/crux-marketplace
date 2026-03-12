@@ -1,6 +1,6 @@
 {
   "name": "crux-marketplace",
-  "owner": { "name": "Crux Team" },
+  "owner": { "name": "The Crux Digital Team" },
   "plugins": [
     {
       "name": "glados",

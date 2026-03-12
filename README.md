@@ -1,6 +1,6 @@
 # Crux Marketplace
 
-A Claude Code plugin marketplace by Crux Team.
+A Claude Code plugin marketplace by The Crux Digital Team.
 
 ## Plugins
 
