@@ -5,8 +5,8 @@
     {
       "name": "glados",
       "source": {
-        "source": "git",
-        "url": "https://github.com/jed2nd/GLaDOS.git"
+        "source": "github",
+        "repo": "jed2nd/GLaDOS"
       },
       "description": "GLaDOS — agentic development framework with structured workflows, modules, and personas"
     }
