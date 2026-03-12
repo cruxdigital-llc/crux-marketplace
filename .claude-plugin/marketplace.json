@@ -1,0 +1,15 @@
+{
+  "name": "crux-marketplace",
+  "owner": { "name": "Crux Team" },
+  "plugins": [
+    {
+      "name": "glados",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/jed2nd/GLaDOS.git",
+        "path": "plugins/claude-code"
+      },
+      "description": "GLaDOS — agentic development framework with structured workflows, modules, and personas"
+    }
+  ]
+}
