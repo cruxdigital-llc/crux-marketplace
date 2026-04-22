@@ -16,7 +16,7 @@
         "source": "github",
         "repo": "cruxdigital-llc/ds-relay"
       },
-      "description": "Automated Design System. Agent-team pipeline that turns a Figma component into a production React component via Understand → Build → Verify phases, with pluggable design-system adapters and structured human gates."
+      "description": "Relay DS — 8-agent Figma-to-React pipeline with pluggable design-system adapters and structured human gates"
     }
   ]
 }
