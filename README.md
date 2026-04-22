@@ -7,7 +7,7 @@ A Claude Code plugin marketplace by The Crux Digital Team.
 | Plugin | Description |
 |--------|-------------|
 | **glados** | GLaDOS — agentic development framework with structured workflows, modules, and personas |
-| **relay-ds** | Automated Design System. Agent-team pipeline that turns a Figma component into a production React component via Understand → Build → Verify phases, with pluggable design-system adapters and structured human gates. |
+| **relay-ds** | Relay DS — 8-agent Figma-to-React pipeline with pluggable design-system adapters and structured human gates |
 
 ## Installation
 
